@@ -58,12 +58,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< Updated upstream
     <state x="361" y="77" key="#Project_Structure" timestamp="1580680796158">
       <screen x="0" y="0" width="1536" height="834" />
+=======
+    <state x="552" y="177" key="#Notifications" timestamp="1580824433104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="177" key="#Notifications/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580824433104" />
+    <state x="361" y="76" key="#Project_Structure" timestamp="1580683407334">
+      <screen x="0" y="0" width="1536" height="824" />
+>>>>>>> Stashed changes
     </state>
     <state x="361" y="77" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1580680796158" />
+<<<<<<< Updated upstream
     <state width="1493" height="160" key="GridCell.Tab.0.bottom" timestamp="1580682046452">
       <screen x="0" y="0" width="1536" height="834" />
+=======
+    <state x="763" y="232" key="#com.intellij.ide.util.MemberChooser" timestamp="1580746564142">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="763" y="232" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580746564142" />
+    <state x="599" y="112" key="CommitChangelistDialog2" timestamp="1580824388885">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="599" y="112" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580824388885" />
+    <state x="184" y="85" key="DiffContextDialog" timestamp="1580824097522">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="85" key="DiffContextDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580824097522" />
+    <state width="1860" height="168" key="GridCell.Tab.0.bottom" timestamp="1580810371598">
+      <screen x="0" y="0" width="1920" height="1040" />
+>>>>>>> Stashed changes
     </state>
     <state width="1493" height="160" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1580682046452" />
     <state width="1493" height="160" key="GridCell.Tab.0.center" timestamp="1580682046452">
@@ -82,6 +108,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1580681067283" />
+<<<<<<< Updated upstream
+=======
+    <state x="311" y="0" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580809852822" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1580824410758">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580824410758" />
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1580808822504">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580808822504" />
+    <state x="2039" y="0" width="1021" height="1029" key="dock-window-1" timestamp="1580808825157">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2039" y="0" width="1021" height="1029" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1580808825157" />
+>>>>>>> Stashed changes
     <state x="425" y="189" key="run.anything.popup" timestamp="1580681558353">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
